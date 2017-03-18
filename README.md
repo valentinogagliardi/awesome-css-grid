@@ -6,6 +6,10 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
+* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+* [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/)
+
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
@@ -16,6 +20,12 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [Getting Started With CSS Grid (css-tricks.com)](https://css-tricks.com/getting-started-css-grid/)
 
-* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
 * [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout)
+
+* [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8ih4cvw8v)
+
+* [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
+
+* [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
+
+* [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/)
