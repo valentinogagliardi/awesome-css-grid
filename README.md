@@ -12,6 +12,10 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 
+* [Grid by Example](http://gridbyexample.com/)
+
+* [Grid fallbacks and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
