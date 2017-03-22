@@ -33,3 +33,11 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 * [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
 
 * [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/)
+
+* [CSS Grid: First Steps](http://jeffbridgforth.com/css-grid-first-steps/)
+
+* [CSS Grid Layout and PostCSS: Now Kiss!](https://medium.com/@SylvainPV/css-grid-layout-and-postcss-now-kiss-5e35f61a6f00#.p2zbkfh1h)
+
+* [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
+
+* [CSS Grid Layout Snippets for AtomIo](https://atom.io/packages/css-grid-snippets)
