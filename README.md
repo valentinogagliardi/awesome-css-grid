@@ -10,6 +10,10 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/)
 
+* [Fun with CSS Grid: The Demo Site (MDN)](https://www.mozilla.org/en-US/developer/css-grid)
+
+* [Examine Grid Layouts with the CSS Grid Inspector (MDN)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 
 * [Grid by Example](http://gridbyexample.com/)
