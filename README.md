@@ -10,6 +10,8 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/)
 
+* [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
+
 * [Fun with CSS Grid: The Demo Site (MDN)](https://www.mozilla.org/en-US/developer/css-grid)
 
 * [Examine Grid Layouts with the CSS Grid Inspector (MDN)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
@@ -28,7 +30,7 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
 
-* [Playing with CSS Grids (14islands.com)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
+* [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
 
 * [Getting Started With CSS Grid (css-tricks.com)](https://css-tricks.com/getting-started-css-grid/)
 
@@ -49,3 +51,5 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 * [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
 
 * [CSS Grid Layout Snippets for AtomIo](https://atom.io/packages/css-grid-snippets)
+
+* [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
