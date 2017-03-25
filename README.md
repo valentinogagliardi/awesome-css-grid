@@ -53,3 +53,5 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 * [CSS Grid Layout Snippets for AtomIo](https://atom.io/packages/css-grid-snippets)
 
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
+
+* [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
