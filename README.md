@@ -24,6 +24,8 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 
+* [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
+
 * [Grid Has So Many Properties, Do We Need Them All? (Jen Simons)](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
 
 * [The benefits of learning how to code layouts with CSS (Jen Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
