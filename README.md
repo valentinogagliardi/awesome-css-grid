@@ -10,6 +10,8 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/)
 
+* [CSS Grid Garden](http://cssgridgarden.com/)
+
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
 
 * [Fun with CSS Grid: The Demo Site (MDN)](https://www.mozilla.org/en-US/developer/css-grid)
