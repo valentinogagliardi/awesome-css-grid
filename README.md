@@ -36,6 +36,8 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 
 * [The benefits of learning how to code layouts with CSS (Jen Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
 
+* [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
+
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
 
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
