@@ -10,6 +10,7 @@
 
 - [Documentation](#documentation)
 - [Articles](#articles)
+- [Tools](#tools)
 - [Examples](#examples)
 - [Slides](#slides)
 
@@ -48,6 +49,10 @@
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
 * [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+
+## Tools
+
+* [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy) - A simple tool to build complex CSS Grid templates
 
 ## Examples
 
