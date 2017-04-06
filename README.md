@@ -1,8 +1,6 @@
-# CSS Grid Layout : A Collection of Resources
+# Awesome CSS Grid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Grid Layout](img/jan-jakub-nanista-112550.png)
-
-Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo is to collect a curated list of links about the CSS Grid Layout. The goal is to update this page as soon as new interesting articles pop out. The list is not intended to be 100% comprehensive of all the material out there, nonetheless I'll do my best to keep the page updated. Happy Grid to all!
+** A manually curated list of CSS Grid resources **
 
 * [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
@@ -67,3 +65,9 @@ Welcome to CSS Grid Layout, A Collection of Resources! The purpose of this repo 
 * [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Valentino Gagliardi](https://www.valentinog.com) has waived all copyright and related or neighboring rights to this work.
