@@ -20,16 +20,15 @@
 
 ## Documentation
 
-* [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/)
+* [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Official documentation on MDN
+* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/) - A complete reference from Css Tricks
+* [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/) - A guide to CSS Grid
 
 ## Articles
 
 * [Getting Started With CSS Grid (css-tricks.com)](https://css-tricks.com/getting-started-css-grid/)
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
 * [Fun with CSS Grid: The Demo Site (MDN)](https://www.mozilla.org/en-US/developer/css-grid)
-* [CSS Grid Garden](http://cssgridgarden.com/)
 * [Examine Grid Layouts with the CSS Grid Inspector (MDN)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 * [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout)
@@ -53,11 +52,12 @@
 ## Tools
 
 * [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy) - A simple tool to build complex CSS Grid templates
+* [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS Grid
 
 ## Examples
 
-* [A list of websites that use Grid in production](https://cssgrid.design/)
-* [Grid by Example](http://gridbyexample.com/)
+* [A list of websites that use Grid in production](https://cssgrid.design/) - A list of websites that use CSS Grid
+* [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 
 ## Slides
 
