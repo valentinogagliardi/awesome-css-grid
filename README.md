@@ -50,6 +50,7 @@
 * [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
+* [Give Yourself Over to CSS Grid](https://www.webdirections.org/blog/give-css-grid-mike-riethmuller) - Mike Riethmuller discuss about CSS Grid and its impact on our work
 
 ## Tools
 
