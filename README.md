@@ -52,6 +52,7 @@
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
 * [Give Yourself Over to CSS Grid](https://www.webdirections.org/blog/give-css-grid-mike-riethmuller) - Mike Riethmuller discuss about CSS Grid and its impact on our work
+* [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
 
 ## Tools
 
