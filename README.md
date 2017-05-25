@@ -73,6 +73,10 @@
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
 
+## Misc
+
+* [CSS Grid Tips](https://twitter.com/cssgridtips) - Daily tips about CSS Grid by Jen Simmons
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
