@@ -54,7 +54,8 @@
 * [Give Yourself Over to CSS Grid](https://www.webdirections.org/blog/give-css-grid-mike-riethmuller) - Mike Riethmuller discuss about CSS Grid and its impact on our work
 * [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Ire Aderinokun explains how the Grid minmax() function works 
-* [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works 
+* [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
+* [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
 
 ## Tools
 
