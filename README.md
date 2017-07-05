@@ -56,6 +56,7 @@
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Ire Aderinokun explains how the Grid minmax() function works 
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
 * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
+* [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
 
 ## Tools
 
