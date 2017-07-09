@@ -57,6 +57,7 @@
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
 * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
 * [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
+* [How to Efficiently Master the CSS Grid in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577) - Ohans Emmanuel explains how you can get 80% efficiency with just 20% of the CSS Grid.
 
 ## Tools
 
