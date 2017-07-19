@@ -30,6 +30,7 @@
 ## Articles
 
 * [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
+* [Accurately checking for CSS Grid support in Microsoft Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)
 * [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
 * [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
