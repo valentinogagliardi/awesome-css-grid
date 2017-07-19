@@ -20,8 +20,9 @@
 
 ## Documentation
 
+* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/) - A complete reference from CSS-Tricks
+* [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 * [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Official documentation on MDN
-* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/) - A complete reference from Css Tricks
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/) - A guide to CSS Grid
 * [Learn CSS Grid](http://learncssgrid.com/) - A comprehensive guide to learn CSS Grid by Jonathan Suh
 
