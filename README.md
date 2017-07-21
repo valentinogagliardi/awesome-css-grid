@@ -40,6 +40,7 @@
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
 * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
+* [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
 * [CSS Grid: First Steps](http://jeffbridgforth.com/css-grid-first-steps/)
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
