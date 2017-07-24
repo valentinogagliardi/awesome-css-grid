@@ -58,6 +58,7 @@
 * [How to Efficiently Master the CSS Grid in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577) - Ohans Emmanuel explains how you can get 80% efficiency with just 20% of the CSS Grid.
 * [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout)
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
+* [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
