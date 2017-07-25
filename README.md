@@ -86,6 +86,7 @@
 
 ## Slides
 
+* [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
 
