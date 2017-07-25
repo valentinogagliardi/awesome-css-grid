@@ -71,6 +71,7 @@
 
 ## Tools
 
+* [Announcing CSS Grid & the Firefox Grid Inspector Tool](https://www.youtube.com/watch?v=16enLRDbOyY)
 * [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/) - Another CSS Grid Tool, by Ali Alaa
 * [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS Grid
 * [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy) - A simple tool to build complex CSS Grid templates
