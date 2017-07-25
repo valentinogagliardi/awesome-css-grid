@@ -91,6 +91,11 @@
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
 
+## Videos
+
+* [CSS Grid Layout ya está aquí! (in Spansih)](https://www.youtube.com/watch?v=xotm_GckeYY)
+* [Entendiendo CSS Grid Playlist (in Spansih)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
+
 ## Misc
 
 * [CSS Grid Tips](https://twitter.com/cssgridtips) - Daily tips about CSS Grid by Jen Simmons
