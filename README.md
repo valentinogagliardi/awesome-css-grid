@@ -63,6 +63,7 @@
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
 * [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) - Dan Brown explains how you can replace Bootstrap with a native CSS Grid
+* [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
 * [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
 * [The benefits of learning how to code layouts with CSS (Jen Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
