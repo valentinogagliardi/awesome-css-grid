@@ -69,6 +69,7 @@
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
 * [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
 * [The benefits of learning how to code layouts with CSS (Jen Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
+* [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)
 * [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
 * [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
 * [Why display: contents is not CSS Grid Layout subgrid](https://rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/)
