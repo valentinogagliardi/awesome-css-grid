@@ -56,6 +56,7 @@
 * [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/)
 * [Grid fallbacks and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 * [Grid Has So Many Properties, Do We Need Them All? (Jen Simons)](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
+* [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to) - Abbey Fitzgerald demonstrates how to build layouts by combining CSS Grid Layout and Flexbox
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Ire Aderinokun explains how the Grid minmax() function works
 * [How to Efficiently Master the CSS Grid in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577) - Ohans Emmanuel explains how you can get 80% efficiency with just 20% of the CSS Grid.
 * [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout)
