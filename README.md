@@ -62,6 +62,7 @@
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 * [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
+* [More CSS Charts, with Grid & Custom Properties](https://css-tricks.com/css-charts-grid-custom-properties/)
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
 * [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
