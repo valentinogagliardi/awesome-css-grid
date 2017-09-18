@@ -58,6 +58,7 @@
 * [Grid fallbacks and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 * [Grid Has So Many Properties, Do We Need Them All? (Jen Simons)](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
 * [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
+* [Here's a Super Quick Way to Try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid?utm_campaign=Knowledge%20Sharing&utm_content=59835174&utm_medium=social&utm_source=twitter)
 * [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to) - Abbey Fitzgerald demonstrates how to build layouts by combining CSS Grid Layout and Flexbox
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Ire Aderinokun explains how the Grid minmax() function works
 * [How to Efficiently Master the CSS Grid in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577) - Ohans Emmanuel explains how you can get 80% efficiency with just 20% of the CSS Grid.
