@@ -66,6 +66,7 @@
 * [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout)
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 * [Learn CSS Grid](http://varun.ca/css-grid/)
+* [Learn CSS Grid part 2](http://varun.ca/css-grid-2)
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 * [Liberating layout through CSS Grid](https://cssgrid.cc/)
 * [More CSS Charts, with Grid & Custom Properties](https://css-tricks.com/css-charts-grid-custom-properties/)
