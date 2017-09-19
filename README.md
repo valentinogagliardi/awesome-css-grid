@@ -34,6 +34,7 @@
 * [Accurately checking for CSS Grid support in Microsoft Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)
 * [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
+* [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
 * [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
 * [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
