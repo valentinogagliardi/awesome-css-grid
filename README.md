@@ -103,6 +103,7 @@
 
 ## Slides
 
+* [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 * [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 * [CSS Grid Layout, ¡Está vivo! (in Spansih)](http://ignaciodenuevo.com/speaking/css-grid-layout)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
