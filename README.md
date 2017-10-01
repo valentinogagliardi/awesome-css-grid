@@ -51,6 +51,7 @@
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 * [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
 * [Examine Grid Layouts with the CSS Grid Inspector (MDN)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+* [From Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
 * [Fun with CSS Grid: The Demo Site (MDN)](https://www.mozilla.org/en-US/developer/css-grid)
 * [Getting Started With CSS Grid (css-tricks.com)](https://css-tricks.com/getting-started-css-grid/)
 * [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8ih4cvw8v)
