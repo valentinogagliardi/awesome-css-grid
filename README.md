@@ -79,7 +79,8 @@
 * [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
 * [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
-* [The benefits of learning how to code layouts with CSS (Jen Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
+* [The benefits of learning how to code layouts with CSS (
+Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
 * [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)
 * [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
 * [Usando Grid Layout con @Supports (Spanish)](http://jorgeatgu.com/blog/css-grid-layout-supports/)
@@ -101,6 +102,7 @@
 * [CSS Grid Experiments](http://stephaniestimac.com/grid/) - Grid examples by Stephanie Stimac
 * [CSS Grid: A tribute to Mondrian](http://codepen.io/vale_gagliardi/pen/YZMPQy) - Shameless plug, I've made that
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
+* [Intro to CSS Grid](http://labs.jensimmons.com/)
 
 ## Slides
 
