@@ -116,6 +116,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 * [CSS Grid Layout ya está aquí! (in Spansih)](https://www.youtube.com/watch?v=xotm_GckeYY)
 * [CSS Grids for everyone: Your first grid](https://laracasts.com/series/css-grids-for-everyone/episodes/1) - CSS Grid mini-tutorial by Jeffrey Way
+* [CSS Grids for everyone: Position it anywhere](https://laracasts.com/series/css-grids-for-everyone/episodes/2) - CSS Grid mini-tutorial by Jeffrey Way
 * [Entendiendo CSS Grid Playlist (in Spansih)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 * [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 
