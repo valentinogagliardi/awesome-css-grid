@@ -103,13 +103,13 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid: A tribute to Mondrian](http://codepen.io/vale_gagliardi/pen/YZMPQy) - Shameless plug, I've made that
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Intro to CSS Grid](http://labs.jensimmons.com/)
+* [Responsive Periodic Table with CSS Grids](https://codepen.io/dudleystorey/full/rmWMXY/)
 
 ## Slides
 
 * [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 * [CSS Grid Layout, ¡Está vivo! (in Spansih)](http://ignaciodenuevo.com/speaking/css-grid-layout)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
-* [Responsive Periodic Table with CSS Grids](https://codepen.io/dudleystorey/full/rmWMXY/)
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
 
 ## Videos
