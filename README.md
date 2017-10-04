@@ -42,6 +42,7 @@
 * [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
+* [Contextual Callouts with CSS Grid](https://jonathan-harrell.com/contextual-asides-with-css-grid)
 * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
 * [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
@@ -104,6 +105,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Intro to CSS Grid](http://labs.jensimmons.com/)
 * [Responsive CSS Grid](https://codepen.io/antibland/full/zEdryx/) - with accessible :target navigation
+* [Responsive Periodic Table with CSS Grids](https://codepen.io/dudleystorey/full/rmWMXY/)
 
 ## Slides
 
