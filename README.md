@@ -39,6 +39,7 @@
 * [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 * [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
+* [Breaking the Grid](http://daverupert.com/2017/09/breaking-the-grid/) - wo ways to break CSS Grid and how to fix it
 * [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
