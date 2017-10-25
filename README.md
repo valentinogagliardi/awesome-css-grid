@@ -112,6 +112,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Intro to CSS Grid](http://labs.jensimmons.com/)
 * [Malerei, Fotografie, Film (pg. 126)](https://codepen.io/huijing/pen/PpqomV)
+* [Monopoly board](https://codepen.io/johnnycopes/pen/yzQyMp)
 * [Responsive CSS Grid](https://codepen.io/antibland/full/zEdryx/) - with accessible :target navigation
 * [Responsive Periodic Table with CSS Grids](https://codepen.io/dudleystorey/full/rmWMXY/)
 
