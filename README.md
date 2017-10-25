@@ -104,6 +104,10 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy) - A simple tool to build complex CSS Grid templates
 * [Griddy](http://griddy.io) - A nice tool to experiment with CSS Grid Layout
 
+## Books
+
+* [Get ready for CSS Grid Layout](https://abookapart.com/products/get-ready-for-css-grid-layout)
+
 ## Examples
 
 * [A list of websites that use Grid in production](https://cssgrid.design/) - A list of websites that use CSS Grid
