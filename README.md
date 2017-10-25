@@ -53,6 +53,7 @@
 * [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
 * [CSS Grid: First Steps](http://jeffbridgforth.com/css-grid-first-steps/)
+* [CSS Grids for Everyone](https://laracasts.com/series/css-grids-for-everyone)
 * [Designer’s Guide to Flexbox and Grid](https://medium.com/@jonyablonski/designers-guide-to-flexbox-and-grid-cec6e7e45736)
 * [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 * [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
