@@ -13,6 +13,8 @@
 - [Tools](#tools)
 - [Examples](#examples)
 - [Slides](#slides)
+- [Videos](#videos)
+- [Courses](#courses)
 
 <!-- tocstop -->
 
@@ -137,6 +139,10 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Entendiendo CSS Grid Playlist (in Spansih)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 * [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 * [Rachel Andrew | What I discovered about layout via CSS Grid | CSS Day 2017](https://vimeo.com/238463263)
+
+## Courses
+
+* [Grid Critters](https://gridcritters.com/p/gridcritters)
 
 ## Misc
 
