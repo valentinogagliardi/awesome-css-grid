@@ -142,6 +142,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 ## Misc
 
 * [CSS Grid Tips](https://twitter.com/cssgridtips) - Daily tips about CSS Grid by Jen Simmons
+* [CSS Grid Ask Me Anything](https://github.com/rachelandrew/cssgrid-ama)
 
 ## License
 
