@@ -135,6 +135,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid for everyone: The fractional unit](https://laracasts.com/series/css-grids-for-everyone/episodes/4) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grid for everyone: Nested grids](https://laracasts.com/series/css-grids-for-everyone/episodes/5) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grid for everyone: The Tricky Auto-Fill and Auto-Fit](https://laracasts.com/series/css-grids-for-everyone/episodes/6) - CSS Grid mini-tutorial by Jeffrey Way
+* [Diogo Moretti - "CSS {Grid} Layout: It's evolution baby" - Vale do Carbono Conf](https://www.youtube.com/watch?v=94aYg5D8N0s&t=58s)
 * [Entendiendo CSS Grid Playlist (in Spansih)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 * [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 * [Rachel Andrew | What I discovered about layout via CSS Grid | CSS Day 2017](https://vimeo.com/238463263)
