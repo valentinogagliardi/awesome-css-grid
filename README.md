@@ -96,6 +96,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
 * [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
 * [Why display: contents is not CSS Grid Layout subgrid](https://rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/)
+* [Y'know CSS was to kill off HTML table layout? Well, second time's a charm: Meet CSS Grid](https://www.theregister.co.uk/2017/03/31/css_grids_browser_support/)
 
 ## Tools
 
