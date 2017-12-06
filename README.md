@@ -23,7 +23,6 @@
 * [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/) - A complete reference from CSS-Tricks
 * [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 * [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Official documentation on MDN
-* [CSS Grid Layout Microsoft](https://msdn.microsoft.com/en-us/library/hh673533.aspx) - Official documentation on Microsoft
 * [CSS Grid Layout Module Level 1 Specification (W3C)](https://www.w3.org/TR/css-grid-1/)
 * [Learn CSS Grid](http://learncssgrid.com/) - A comprehensive guide to learn CSS Grid by Jonathan Suh
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/) - A guide to CSS Grid
@@ -125,22 +124,22 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 ## Slides
 
 * [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
-* [CSS Grid Layout, ¡Está vivo! (in Spansih)](http://ignaciodenuevo.com/speaking/css-grid-layout)
+* [CSS Grid Layout, ¡Está vivo! (in Spanish)](http://ignaciodenuevo.com/speaking/css-grid-layout)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
-* [CSS Grid Layout by Afonso Pacifer (in Spansih)](https://speakerdeck.com/afonsopacifer/css-grid-layout)
+* [CSS Grid Layout by Afonso Pacifer (in Portuguese)](https://speakerdeck.com/afonsopacifer/css-grid-layout)
 
 ## Videos
 
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
-* [CSS Grid Layout ya está aquí! (in Spansih)](https://www.youtube.com/watch?v=xotm_GckeYY)
+* [CSS Grid Layout ya está aquí! (in Spanish)](https://www.youtube.com/watch?v=xotm_GckeYY)
 * [CSS Grids for everyone: Your first grid](https://laracasts.com/series/css-grids-for-everyone/episodes/1) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grids for everyone: Position it anywhere](https://laracasts.com/series/css-grids-for-everyone/episodes/2) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grid for everyone: Named Grid Areas](https://laracasts.com/series/css-grids-for-everyone/episodes/3) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grid for everyone: The fractional unit](https://laracasts.com/series/css-grids-for-everyone/episodes/4) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grid for everyone: Nested grids](https://laracasts.com/series/css-grids-for-everyone/episodes/5) - CSS Grid mini-tutorial by Jeffrey Way
 * [CSS Grid for everyone: The Tricky Auto-Fill and Auto-Fit](https://laracasts.com/series/css-grids-for-everyone/episodes/6) - CSS Grid mini-tutorial by Jeffrey Way
-* [Entendiendo CSS Grid Playlist (in Spansih)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
+* [Entendiendo CSS Grid Playlist (in Spanish)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 * [Manuel Rego - CSS Grid Layout is Just Around the Corner](https://www.youtube.com/watch?v=9js_5MjiGFo)
 * [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 * [Rachel Andrew | CSS Grid Layout | CSS Day 2015](https://vimeo.com/133642780)
