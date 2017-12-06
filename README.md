@@ -128,6 +128,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid Layout, ¡Está vivo! (in Spansih)](http://ignaciodenuevo.com/speaking/css-grid-layout)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
+* [CSS Grid Layout by Afonso Pacifer (in Spansih)](https://speakerdeck.com/afonsopacifer/css-grid-layout)
 
 ## Videos
 
