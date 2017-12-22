@@ -29,6 +29,7 @@
 
 ## Articles
 
+* [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
 * [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
 * [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
 * [Accurately checking for CSS Grid support in Microsoft Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)
