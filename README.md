@@ -118,6 +118,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Calendar with CSS Grid](https://snook.ca/archives/html_and_css/calendar-css-grid)
 * [CSS Grid Experiments](http://stephaniestimac.com/grid/) - Grid examples by Stephanie Stimac
 * [CSS Grid: A tribute to Mondrian](http://codepen.io/vale_gagliardi/pen/YZMPQy) - Shameless plug, I've made that
+* [CSSGrid.io](https://cssgrid.io/) - Grid course by Wes Bos
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Intro to CSS Grid](http://labs.jensimmons.com/)
 * [Malerei, Fotografie, Film (pg. 126)](https://codepen.io/huijing/pen/PpqomV)
