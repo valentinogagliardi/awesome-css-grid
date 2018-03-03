@@ -68,6 +68,7 @@
 * [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8ih4cvw8v)
 * [Give Yourself Over to CSS Grid](https://www.webdirections.org/blog/give-css-grid-mike-riethmuller) - Mike Riethmuller discuss about CSS Grid and its impact on our work
 * [Grid Cheatsheet](http://grid.malven.co/)
+* [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
 * [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/)
 * [Grid fallbacks and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 * [Grid Has So Many Properties, Do We Need Them All? (Jen Simons)](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
