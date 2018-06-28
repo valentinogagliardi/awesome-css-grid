@@ -49,6 +49,7 @@
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
 * [Contextual Callouts with CSS Grid](https://jonathan-harrell.com/contextual-asides-with-css-grid)
 * [CSS Exclusions and Grid Layout](https://rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
+* [CSS Grid Application Layout in Production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa)
 * [CSS Grid Layout is Here to Stay](https://blogs.igalia.com/mrego/2017/03/16/css-grid-layout-is-here-to-stay/)
 * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
