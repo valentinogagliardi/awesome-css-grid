@@ -55,6 +55,7 @@
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
 * [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
+* [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)
 * [CSS Grid: First Steps](http://jeffbridgforth.com/css-grid-first-steps/)
 * [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 * [Deep Dive into Grid Layout Placement](https://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/?utm_campaign=CSS%252BLayout%252BNews&utm_medium=email&utm_source=CSS_Layout_News_27)
