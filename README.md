@@ -157,6 +157,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 * [Rachel Andrew | CSS Grid Layout | CSS Day 2015](https://vimeo.com/133642780)
 * [Rachel Andrew | What I discovered about layout via CSS Grid | CSS Day 2017](https://vimeo.com/238463263)
+* [Rock' n' Grid - Diana Aceves WeCodeFest 2018 (in Spanish)](https://www.youtube.com/watch?v=p7oXrr9yjXY)
 
 ## Misc
 
