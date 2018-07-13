@@ -120,6 +120,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 
 ## Examples
 
+* [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
 * [A list of websites that use Grid in production](https://cssgrid.design/) - A list of websites that use CSS Grid
 * [Calendar with CSS Grid](https://snook.ca/archives/html_and_css/calendar-css-grid)
 * [CSS Grid Experiments](http://stephaniestimac.com/grid/) - Grid examples by Stephanie Stimac
