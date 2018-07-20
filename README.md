@@ -152,12 +152,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 * [CSS Grid Layout ya está aquí! (in Spanish)](https://www.youtube.com/watch?v=xotm_GckeYY)
-* [CSS Grids for everyone: Your first grid](https://laracasts.com/series/css-grids-for-everyone/episodes/1) - CSS Grid mini-tutorial by Jeffrey Way
-* [CSS Grids for everyone: Position it anywhere](https://laracasts.com/series/css-grids-for-everyone/episodes/2) - CSS Grid mini-tutorial by Jeffrey Way
-* [CSS Grid for everyone: Named Grid Areas](https://laracasts.com/series/css-grids-for-everyone/episodes/3) - CSS Grid mini-tutorial by Jeffrey Way
-* [CSS Grid for everyone: The fractional unit](https://laracasts.com/series/css-grids-for-everyone/episodes/4) - CSS Grid mini-tutorial by Jeffrey Way
-* [CSS Grid for everyone: Nested grids](https://laracasts.com/series/css-grids-for-everyone/episodes/5) - CSS Grid mini-tutorial by Jeffrey Way
-* [CSS Grid for everyone: The Tricky Auto-Fill and Auto-Fit](https://laracasts.com/series/css-grids-for-everyone/episodes/6) - CSS Grid mini-tutorial by Jeffrey Way
+* [CSS Grids for everyone](https://laracasts.com/series/css-grids-for-everyone) - CSS Grid mini video series by Jeffrey Way
 * [Entendiendo CSS Grid Playlist (in Spanish)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 * [Incredibly Easy Layouts with CSS Grid Playlist](https://www.youtube.com/watch?v=tFKrK4eAiUQ&list=PLbSquHt1VCf2Y4UEiaGjAOxuTXzo5iyZA)
 * [Manuel Rego - CSS Grid Layout is Just Around the Corner](https://www.youtube.com/watch?v=9js_5MjiGFo)
