@@ -131,6 +131,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid Experiments](https://julesforrest.com/css-grid-experiments/) - Grid examples by Jules Forrest
 * [CSS Grid: A tribute to Mondrian](http://codepen.io/vale_gagliardi/pen/YZMPQy) - Shameless plug, I've made that
 * [CSSGrid.io](https://cssgrid.io/) - Grid course by Wes Bos
+* [Creative examples CSS Grid layouts](https://speckyboy.com/creative-examples-css-grid-layouts/)
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Grid Examples](http://www.gridexamples.com/)
 * [Intro to CSS Grid](http://labs.jensimmons.com/)
