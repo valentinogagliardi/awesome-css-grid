@@ -42,6 +42,7 @@
 * [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
 * [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
 * [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
+* [Build Production-Ready CSS Grid Layouts Todas](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 * [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 * [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
@@ -88,14 +89,14 @@
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 * [X] [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Learn CSS Grid part 2](http://varun.ca/css-grid-2)
-* [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
+* [X] [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 * [Liberating layout through CSS Grid](https://cssgrid.cc/)
 * [More CSS Charts, with Grid & Custom Properties](https://css-tricks.com/css-charts-grid-custom-properties/)
 * [Naming Things In CSS Grid Layout](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
 * [OOCSS and Grid](https://keithjgrant.com/posts/2017/12/oocss-and-grid/)
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
-* [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
+* [X] [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 * [Refer to the spec : background and motivation](https://rachelandrew.co.uk/archives/2017/07/19/refer-to-the-spec-background-and-motivation)
 * [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) - Dan Brown explains how you can replace Bootstrap with a native CSS Grid
 * [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
