@@ -1,0 +1,87 @@
+/* 
+
+http://assets.fightland.com/content-images/contentimage/55602/street333.jpg
+http://www.wallpast.com/wp-content/uploads/2017/12/street-fighter-hd-wallpaper-street-fighter-hd-wallpaper-street-fighter-wallpaper-hd-widescreen-street-fighter-wallpaper-hd-1920x1080-street-fighter-wallpaper-hd.jpg
+
+https://i.pinimg.com/originals/6b/5d/18/6b5d188d026ac503e43a5bf583b05bed.jpg
+*/
+
+.wrapper {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 1fr;
+    max-width: auto;
+    font-size: 0;
+}
+
+.hero-item,
+.standard-item {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.standard-item {
+    background-position: center center;
+}
+
+.hero-item {
+    background-position: center top;
+}
+
+.new-item {
+    display: inline-block;
+    min-height: 400px;
+    width: 50%;
+}
+
+.hero-item {
+    background-image: url('http://cinepop.com.br/wp-content/uploads/2018/03/Street-Fighter-V-1-750x380.jpg')
+}
+
+.standard-item:nth-child(2) {
+    background-image: url('https://wallpapersite.com/images/wallpapers/cammy-5120x2880-street-fighter-x-tekken-4563.jpg')
+}
+
+.standard-item:nth-child(3) {
+    background-image: url('https://cdn.mos.cms.futurecdn.net/8F58SJQbKfFRYXFHys27PD-768-80.jpg')
+}
+
+.standard-item:nth-child(4) {
+    background-image: url('http://static.minitokyo.net/downloads/44/28/491444.jpg')
+}
+
+@supports(display: grid) {
+    .new-item {
+        width: auto;
+        min-height: 0;
+    }
+    .hero-item {
+        grid-column: 1 / span 2;
+        grid-row: 1 / 50;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% calc(100% - 75px), 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% calc(100% - 75px), 0 100%);
+    }
+    .standard-item:nth-child(2) {
+        grid-column: 1 / span 1;
+        grid-row: 50 / 100;
+        clip-path: polygon(0 14%, 0 86%, 90% 81%, 100% 6%);
+        margin-top: -73px;
+    }
+    .standard-item:nth-child(3) {
+        grid-column: 2 / span 1;
+        grid-row: 50 / 100;
+        -webkit-clip-path: polygon(13% 6%, 4% 84%, 100% 100%, 100% 0%);
+        clip-path: polygon(13% 6%, 4% 84%, 100% 100%, 100% 0%);
+        margin-top: -73px;
+        margin-left: -15%;
+        margin-bottom: 18px;
+    }
+    .standard-item:nth-child(4) {
+        grid-column: 1 / span 2;
+        grid-row: 100 / 150;
+        -webkit-clip-path: polygon(45% 0, 100% 15%, 100% 100%, 0 100%, 0 5%);
+        clip-path: polygon(45% 0, 100% 15%, 100% 100%, 0 100%, 0 5%);
+        margin-top: -107px;
+    }
+}
