@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'EB Garamond', serif;
+}
+
+p {
+    margin-top: 0;
+}
+
+.container {
+    display: grid;
+    background-color: #4d94ff;
+    grid-template: minmax(100vh, 1fr) / 50% 50%;
+}
+
+.left-page {
+    grid-column: 1 / 2;
+    margin: 30px 0 30px 30px;
+    background-color: #fff;
+    padding: 30px;
+    color: #565052;
+    display: grid;
+    grid-template: 50px 1 fr 20px / repeat(3, 1fr);
+}
+
+.left-page .date {
+    grid-area: 1 / 1 / 2 / 2;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.left-page .cat {
+    grid-area: 1 / 3 / 2 / 4;
+    justify-self: end;
+    align-self: start;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    border: 2px solid #565052;
+    padding: 10px 20px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0px;
+}
+
+.left-page .title {
+    font-family: 'Roboto Condensed', sans-serif;
+    grid-area: 1 / 1 / 4 / 3;
+    text-align: left;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    color: #565052;
+    text-transform: uppercase;
+    font-size: 20vh;
+    font-size: calc(0.19 * (100vh - 140px));
+    margin: 0;
+    letter-spacing: calc(0.06 * (100vh - 140px));
+    line-height: 17vw;
+    margin-top: calc(-0.07 * (100vh - 140px));
+    margin-left: -3vw;
+    align-self: end;
+}
+
+.left-page .title span {
+    color: #00D0C0;
+    display: block;
+}
+
+.left-page .author {
+    font-size: 14px;
+    color: #00D0C0;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: right;
+    grid-area: 3 / 3 / 4 / 4;
+    align-self: end;
+    justify-self: end;
+}
+
+.right-page {
+    grid-column: 2 / 3;
+    margin: 30px 30px 30px 0;
+    background-color: #fff;
+    padding: 30px;
+    color: #00D0C0;
+    font-size: 18px;
+    line-height: 1.65;
+    border-left: 1px dashed #f1f1f1;
+}
+
+.right-page p:last-of-type {
+    margin-bottom: 0;
+}
+
+@media(max-height: 592px) {
+    .left-page .title {
+        font-size: 85.88px;
+        letter-spacing: 27px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1200px) {
+    .left-page .title {
+        line-height: 14vw;
+    }
+}
+
+@media(max-width:799px) {
+    .container {
+        grid-template: auto / auto;
+    }
+    .left-page {
+        grid-column: 1 / 2;
+        margin: 30px 30px 0;
+    }
+    .right-page {
+        grid-column: 1 / 2;
+        margin: 0 30px 30px;
+        border-top: 1px dashed #f1f1f1;
+        border-left: none;
+    }
+    .left-page .title {
+        line-height: 26vw;
+    }
+}
+
+@media(max-width: 450px) {
+    .left-page .title {
+        line-height: 1.5;
+        font-size: 40px;
+        grid-area: 2 / 1 / 4 / 3;
+    }
+}
