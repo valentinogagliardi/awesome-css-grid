@@ -128,16 +128,16 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 ## Examples
 
 * [A list of websites that use Grid in production](https://cssgrid.design/) - A list of websites that use CSS Grid
-* [Calendar with CSS Grid](https://snook.ca/archives/html_and_css/calendar-css-grid)
 * [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
 * [CSS Grid Experiments](http://stephaniestimac.com/grid/) - Grid examples by Stephanie Stimac
 * [CSS Grid Experiments](https://julesforrest.com/css-grid-experiments/) - Grid examples by Jules Forrest
-* [CSS Grid: A tribute to Mondrian](http://codepen.io/vale_gagliardi/pen/YZMPQy) - Shameless plug, I've made that
 * [CSS Grid Layout Slideshow](https://tympanus.net/codrops/2017/07/19/css-grid-layout-slideshow/)
+* [CSS Grid: A tribute to Mondrian](http://codepen.io/vale_gagliardi/pen/YZMPQy) - Shameless plug, I've made that
 * [CSSGrid.io](https://cssgrid.io/) - Grid course by Wes Bos
+* [Calendar with CSS Grid](https://snook.ca/archives/html_and_css/calendar-css-grid)
 * [Creative examples CSS Grid layouts](https://speckyboy.com/creative-examples-css-grid-layouts/)
-* [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Grid Examples](http://www.gridexamples.com/)
+* [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Intro to CSS Grid](http://labs.jensimmons.com/)
 * [Isometric Card Grid](https://codepen.io/jkantner/pen/KQPdXK)
 * [Malerei, Fotografie, Film (pg. 126)](https://codepen.io/huijing/pen/PpqomV)
