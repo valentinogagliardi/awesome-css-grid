@@ -159,6 +159,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [An Introduction to CSS Grid by Jonathan Suh](https://www.youtube.com/watch?v=yJUriViLDCM)
 * [CSS {Grid} Layout: It is evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s&t=58s) - Diogo Moretty - Vale do Carbono Conf.
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
+* [CSS Grid Layout](https://www.youtube.com/watch?v=GRexIOtGhBU) - Rachel Andrew - CSSconf EU 2014.
 * [CSS Grid Layout ya está aquí! (in Spanish)](https://www.youtube.com/watch?v=xotm_GckeYY)
 * [CSS Grid Layout - Front in Vale (in Portuguese)](https://www.youtube.com/watch?v=xvGRZo0x9Ao)
 * [CSS Grids for everyone](https://laracasts.com/series/css-grids-for-everyone) - CSS Grid mini video series by Jeffrey Way
