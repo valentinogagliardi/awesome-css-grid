@@ -155,6 +155,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 * [CSS Grid Layout ya está aquí! (in Spanish)](https://www.youtube.com/watch?v=xotm_GckeYY)
+* [CSS Grid Layout - Front in Vale (in Portuguese)](https://www.youtube.com/watch?v=xvGRZo0x9Ao)
 * [CSS Grids for everyone](https://laracasts.com/series/css-grids-for-everyone) - CSS Grid mini video series by Jeffrey Way
 * [Entendiendo CSS Grid Playlist (in Spanish)](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 * [Incredibly Easy Layouts with CSS Grid Playlist](https://www.youtube.com/watch?v=tFKrK4eAiUQ&list=PLbSquHt1VCf2Y4UEiaGjAOxuTXzo5iyZA)
