@@ -162,6 +162,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Incredibly Easy Layouts with CSS Grid Playlist](https://www.youtube.com/watch?v=tFKrK4eAiUQ&list=PLbSquHt1VCf2Y4UEiaGjAOxuTXzo5iyZA)
 * [Manuel Rego - CSS Grid Layout is Just Around the Corner](https://www.youtube.com/watch?v=9js_5MjiGFo)
 * [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
+* [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
 * [Rachel Andrew | CSS Grid Layout | CSS Day 2015](https://vimeo.com/133642780)
 * [Rachel Andrew | What I discovered about layout via CSS Grid | CSS Day 2017](https://vimeo.com/238463263)
 * [Rock' n' Grid - Diana Aceves WeCodeFest 2018 (in Spanish)](https://www.youtube.com/watch?v=p7oXrr9yjXY)
