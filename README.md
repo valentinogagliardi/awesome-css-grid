@@ -147,6 +147,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid Layout by Afonso Pacifer (in Portuguese)](https://speakerdeck.com/afonsopacifer/css-grid-layout)
 * [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 * [CSS Grid Layout, ¡Está vivo! (in Spanish)](http://ignaciodenuevo.com/speaking/css-grid-layout)
+* [CSS Grid Layout - A great new module in CSS3](http://sydcss-grid.appspot.com/#1)
 * [Designing with Grid (Jen Simmons)](https://speakerdeck.com/jensimmons/an-event-apart-seattle-2017)
 * [Start Using Css Grid Layout Today (Rachel Andrew)](https://www.slideshare.net/rachelandrew/render-conf-start-using-css-grid-layout-today)
 
