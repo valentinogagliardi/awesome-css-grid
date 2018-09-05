@@ -103,6 +103,7 @@
 * [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
 * [The benefits of learning how to code layouts with CSS (
 Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
+* [The Benefits of Using CSS Grid for Web Form Layout](https://www.sitepoint.com/css-grid-web-form-layout/)
 * [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)
 * [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
 * [The Quirks of CSS Grid and Absolute Positioning](https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437)
