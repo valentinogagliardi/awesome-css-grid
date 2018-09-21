@@ -89,8 +89,8 @@
 * [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to) - Abbey Fitzgerald demonstrates how to build layouts by combining CSS Grid Layout and Flexbox
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 * [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
-* [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Learn CSS Grid part 2](http://varun.ca/css-grid-2)
+* [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 * [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
