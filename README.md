@@ -100,7 +100,7 @@
 * [OOCSS and Grid](https://keithjgrant.com/posts/2017/12/oocss-and-grid/)
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
 * [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
-* [X] [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
+* [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 * [Refer to the spec : background and motivation](https://rachelandrew.co.uk/archives/2017/07/19/refer-to-the-spec-background-and-motivation)
 * [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) - Dan Brown explains how you can replace Bootstrap with a native CSS Grid
 * [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
