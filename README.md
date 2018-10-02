@@ -30,7 +30,7 @@
 ## Articles
 
 * [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
-* [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
+* [X] [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
 * [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
 * [A Complete guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)
 * [A fearless guide to using CSS Grid today](https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/)
@@ -111,7 +111,7 @@
 * [The benefits of learning how to code layouts with CSS (
 * [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
 * [Usando Grid Layout con @Supports (Spanish)](http://jorgeatgu.com/blog/css-grid-layout-supports/)
-* [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
+* [X] [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
 * [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163) - Per Harald Borgen shares his opinion about CSS Grid and Bootstrap
 * [Why display: contents is not CSS Grid Layout subgrid](https://rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/)
