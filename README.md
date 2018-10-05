@@ -35,9 +35,9 @@
 * [X] [A Complete guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)
 * [X] [A fearless guide to using CSS Grid today](https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/)
 * [X] [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
-* [An Introduction to CSS Grid Layout: Part 2](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/)
+* [X] [An Introduction to CSS Grid Layout: Part 2](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/)
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
-* [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
+* [X] [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [Another Collection of Interesting Facts About CSS Grid](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/)
 * [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
 * [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
