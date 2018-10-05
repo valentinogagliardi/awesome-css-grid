@@ -31,10 +31,9 @@
 
 * [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
 * [X] [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
-* [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
-* [A Complete guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)
-* [A fearless guide to using CSS Grid today](https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/)
-* [Accurately checking for CSS Grid support in Microsoft Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)
+* [X] [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
+* [X] [A Complete guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)
+* [X] [A fearless guide to using CSS Grid today](https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/)
 * [X] [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
 * [An Introduction to CSS Grid Layout: Part 2](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/)
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
