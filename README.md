@@ -39,10 +39,10 @@
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
 * [X] [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [Another Collection of Interesting Facts About CSS Grid](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/)
-* [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
+* [X] [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
 * [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
-* [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
-* [Build Production-Ready CSS Grid Layouts Todas](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+* [X] [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
+* [X] [Build Production-Ready CSS Grid Layouts Todas](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 * [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
 * [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
