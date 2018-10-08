@@ -40,19 +40,19 @@
 * [X] [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
 * [Another Collection of Interesting Facts About CSS Grid](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/)
 * [X] [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
-* [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
+* [X] [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
 * [X] [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
 * [X] [Build Production-Ready CSS Grid Layouts Todas](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 * [X] [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [X] [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
-* [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
-* [Breaking the Grid](http://daverupert.com/2017/09/breaking-the-grid/) - Two ways to break CSS Grid and how to fix it
-* [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
-* [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
-* [CSS Exclusions and Grid Layout](https://rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
+* [X] [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
+* [X] [Breaking the Grid](http://daverupert.com/2017/09/breaking-the-grid/) - Two ways to break CSS Grid and how to fix it
+* [X] [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
+* [X] [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
+* [X] [CSS Exclusions and Grid Layout](https://rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
 * [CSS Grid Application Layout in Production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa)
 * [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
-* [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
+* [X] [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology)
 * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 * [CSS Grid Layout is Here to Stay](https://blogs.igalia.com/mrego/2017/03/16/css-grid-layout-is-here-to-stay/)
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
