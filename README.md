@@ -106,10 +106,8 @@
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
 * [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
 * [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)
-* [The Quirks of CSS Grid and Absolute Positioning](https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437)
-* [The benefits of learning how to code layouts with CSS (
+* [X] [The Quirks of CSS Grid and Absolute Positioning](https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437)
 * [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
-* [Usando Grid Layout con @Supports (Spanish)](http://jorgeatgu.com/blog/css-grid-layout-supports/)
 * [X] [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
 * [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163) - Per Harald Borgen shares his opinion about CSS Grid and Bootstrap
