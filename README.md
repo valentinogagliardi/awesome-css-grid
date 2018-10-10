@@ -26,19 +26,35 @@
 * [CSS Grid Layout Module Level 1 Specification (W3C)](https://www.w3.org/TR/css-grid-1/)
 * [Learn CSS Grid](http://learncssgrid.com/) - A comprehensive guide to learn CSS Grid by Jonathan Suh
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/) - A guide to CSS Grid
+ * [X] [A Complete guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)
 
 ## Articles
 
+### Basic
+
+### Grid and fallbacks
+
+* [CSS Grid in IE 1/3: Debunking Common IE Grid Misconceptions(IE)](https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/)
+* [CSS Grid in IE 2/3: CSS Grid and the New Autoprefixer(IE)](https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/)
+ * [X] [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
+* [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
+
+### Grid Layout vs Flexbox
+
+* [Designer’s Guide to Flexbox and Grid](https://medium.com/@jonyablonski/designers-guide-to-flexbox-and-grid-cec6e7e45736)
+* [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+* [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
+ * [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/)
+ * [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to) 
+
+
+### Others really awesome
+
 * [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
-* [X] [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
-* [X] [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
-* [X] [A Complete guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)
 * [X] [A fearless guide to using CSS Grid today](https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/)
 * [X] [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
 * [X] [An Introduction to CSS Grid Layout: Part 2](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/)
 * [An Introduction to the fr CSS unit](https://css-tricks.com/introduction-fr-css-unit/) - Robin Rendle explains of the fr CSS unit works
-* [X] [An introduction to the CSS Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
-* [Another Collection of Interesting Facts About CSS Grid](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/)
 * [X] [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#🏀)
 * [X] [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
 * [X] [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4) - Natalya explains how you can start using CSS Grid alongside Bootstrap
@@ -58,16 +74,8 @@
 * [X] [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
 * [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 * [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)
-* [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
-* [CSS Grid in IE 1/3: Debunking Common IE Grid Misconceptions](https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/)
-* [CSS Grid in IE 2/3: CSS Grid and the New Autoprefixer](https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/)
-* [X] [CSS Grid: First Steps](http://jeffbridgforth.com/css-grid-first-steps/)
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
-* [Contextual Callouts with CSS Grid](https://jonathan-harrell.com/contextual-asides-with-css-grid)
 * [Deep Dive into Grid Layout Placement](https://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/?utm_campaign=CSS%252BLayout%252BNews&utm_medium=email&utm_source=CSS_Layout_News_27)
-* [Designer’s Guide to Flexbox and Grid](https://medium.com/@jonyablonski/designers-guide-to-flexbox-and-grid-cec6e7e45736)
-* [Does Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
-* [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
 * [X] [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
 * [Examine Grid Layouts with the CSS Grid Inspector (MDN)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 * [Faux Grid Tracks](https://alistapart.com/article/faux-grid-tracks)
@@ -75,41 +83,25 @@
 * [Getting Started With CSS Grid (css-tricks.com)](https://css-tricks.com/getting-started-css-grid/)
 * [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8ih4cvw8v)
 * [Give Yourself Over to CSS Grid](https://www.webdirections.org/blog/give-css-grid-mike-riethmuller) - Mike Riethmuller discuss about CSS Grid and its impact on our work
-* [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/)
 * [Grid Cheatsheet](http://grid.malven.co/)
-* [Grid Has So Many Properties, Do We Need Them All? (Jen Simons)](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
 * [Grid fallbacks and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
-* [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
 * [Here's a Super Quick Way to Try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid?utm_campaign=Knowledge%20Sharing&utm_content=59835174&utm_medium=social&utm_source=twitter)
 * [X] [How I design with CSS grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/#%F0%9F%8F%80)
 * [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/) - Ire Aderinokun explains how the Grid minmax() function works
 * [How to Efficiently Master the CSS Grid in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577) - Ohans Emmanuel explains how you can get 80% efficiency with just 20% of the CSS Grid.
 * [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout)
-* [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to) - Abbey Fitzgerald demonstrates how to build layouts by combining CSS Grid Layout and Flexbox
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 * [X] [Learn CSS Grid (Jen Simmons)](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 * [Learn CSS Grid part 2](http://varun.ca/css-grid-2)
 * [Learn CSS Grid](http://varun.ca/css-grid/)
-* [X] [Learning CSS Grid Layout (Rachel Andrew)](https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/)
 * [Learn CSS Grid](http://varun.ca/css-grid/)
 * [Liberating layout through CSS Grid](https://cssgrid.cc/)
-* [More CSS Charts, with Grid & Custom Properties](https://css-tricks.com/css-charts-grid-custom-properties/)
 * [Naming Things In CSS Grid Layout](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
-* [OOCSS and Grid](https://keithjgrant.com/posts/2017/12/oocss-and-grid/)
 * [Playing with CSS Grids (Marco Barbosa)](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/)
-* [Practical CSS Grid: Adding Grid to an Existing Design (Eric Meyer)](https://alistapart.com/article/practical-grid)
 * [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
-* [X] [Refer to the spec : background and motivation](https://rachelandrew.co.uk/archives/2017/07/19/refer-to-the-spec-background-and-motivation)
-* [X] [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) - Dan Brown explains how you can replace Bootstrap with a native CSS Grid
-* [X] [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
 * [Spring into CSS Grid](http://jonibologna.com/spring-into-css-grid)
-* [The Basics of Using CSS Grid](https://appendto.com/2017/02/the-basics-of-using-css-grid)
 * [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)
 * [X] [The Quirks of CSS Grid and Absolute Positioning](https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437)
-* [X] [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.jh0iaeu86)
-* [X] [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
-* [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
-* [X] [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163) - Per Harald Borgen shares his opinion about CSS Grid and Bootstrap
 * [Why display: contents is not CSS Grid Layout subgrid](https://rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/)
 Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css)
 
