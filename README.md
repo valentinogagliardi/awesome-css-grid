@@ -110,6 +110,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Usando Grid Layout con @Supports (Spanish)](http://jorgeatgu.com/blog/css-grid-layout-supports/)
 * [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
 * [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/)
+* [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
 * [Why display: contents is not CSS Grid Layout subgrid](https://rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/)
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163) - Per Harald Borgen shares his opinion about CSS Grid and Bootstrap
 
