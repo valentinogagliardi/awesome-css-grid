@@ -168,7 +168,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [Rachel Andrew | What I discovered about layout via CSS Grid | CSS Day 2017](https://vimeo.com/238463263)
 * [Rock' n' Grid - Diana Aceves WeCodeFest 2018 (in Spanish)](https://www.youtube.com/watch?v=p7oXrr9yjXY)
 
-#Books
+## Books
 * [Web Design Playground](https://www.manning.com/books/web-design-playground) 
 
 ## Misc
