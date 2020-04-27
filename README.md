@@ -29,6 +29,7 @@
 
 ## Articles
 
+* [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
 * [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
 * [3 CSS Grid Features That Make My Heart Flutter (Una Kravets)](https://una.im/css-grid/)
 * [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
