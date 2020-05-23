@@ -62,6 +62,7 @@
 * [CSS Grid Layout: A New Layout Module for the Web (Manuel Rego - Webkit Blog)](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/)
 * [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)
 * [CSS Grid: First Steps](http://jeffbridgforth.com/css-grid-first-steps/)
+* [CSS Grid: No Nonsense Layouts](https://testdriven.io/blog/css-grid/) - This articles serves as an introduction to CSS Grid where you'll look at how to create complex grid-based layouts with simple CSS.
 * [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 * [Deep Dive into Grid Layout Placement](https://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/?utm_campaign=CSS%252BLayout%252BNews&utm_medium=email&utm_source=CSS_Layout_News_27)
 * [Designer’s Guide to Flexbox and Grid](https://medium.com/@jonyablonski/designers-guide-to-flexbox-and-grid-cec6e7e45736)
