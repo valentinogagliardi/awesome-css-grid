@@ -50,7 +50,7 @@
 * [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
 * [Case study: my first practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
-* [Contextual Callouts with CSS Grid](https://jonathan-harrell.com/contextual-asides-with-css-grid)
+* [Contextual Callouts with CSS Grid](https://www.jonathan-harrell.com/blog/contextual-callouts-with-css-grid/)
 * [CSS Exclusions and Grid Layout](https://rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
 * [CSS Grid Application Layout in Production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa)
 * [CSS Grid in IE 1/3: Debunking Common IE Grid Misconceptions](https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/)
